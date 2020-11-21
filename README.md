@@ -1,5 +1,6 @@
 <h1 align="center">Awesome FrontendMasters Course Resources</h1>
-<div align="center">
+
+<p align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://github.com/rahuldkjain/awesome-frontendmasters"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </a>
@@ -9,7 +10,9 @@
 <br>
 <i>A curated list of awesome frontendmasters course resources
 </i>
-</div>
+</p>
+
+<br>
 
 | Resource | Repository | Instructor/Developer |
 | ------ | ------ | ------ |
@@ -91,5 +94,6 @@
 | [Unit Testing with JavaScript](https://github.com/testdouble/real-world-testing/) | [real-world-testing](https://github.com/testdouble/real-world-testing/) | [Test Double](https://github.com/testdouble) |
 
 <br>
+
 ### Vote of Thanks 😀
 A big shoutout to [FrontendMasters](https://github.com/FrontendMasters) for creating quality professional courses.
