@@ -10,8 +10,10 @@
 <br>
 <i>A curated list of awesome frontendmasters course resources
 </i>
+<a href="https://www.paypal.me/rahuldkjain"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat&label=Donate" alt="sponsor rahuldkjain"/>
+</a>
+<a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="100" style="border-radius:2px" />
 </p>
-
 <br>
 
 | Resource | Repository | Instructor/Developer |
