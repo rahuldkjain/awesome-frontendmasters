@@ -100,7 +100,7 @@
 <br>
 
 ### 🙇‍♂️ Vote of Thanks
-A big shoutout to [FrontendMasters](https://github.com/FrontendMasters) for creating quality professional courses.
+A big shoutout to [FrontendMasters](https://github.com/FrontendMasters) for creating high quality professional courses.
 
 ### 🙏 Support
 <p align="left">
