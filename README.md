@@ -95,5 +95,18 @@
 
 <br>
 
-### Vote of Thanks 😀
+### 🙇‍♂️ Vote of Thanks
 A big shoutout to [FrontendMasters](https://github.com/FrontendMasters) for creating quality professional courses.
+
+### 🙏 Support
+<p align="left">
+<i>Loved the list? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
+</p>
+
+<p align="left">
+<a href="https://www.paypal.me/rahuldkjain"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor rahuldkjain"/>
+</a>
+<a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
+</a>
+<a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
+</p>
